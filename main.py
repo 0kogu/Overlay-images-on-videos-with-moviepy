@@ -15,3 +15,4 @@ logo = logo.crossfadeout(2.0)
 
 final = mp.CompositeVideoClip([video, logo])
 final.write_videofile(r"C:\Users\USUARIO\Desktop\testes.mp4")
+
